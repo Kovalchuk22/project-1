@@ -405,7 +405,7 @@ padding-left: 22px;
   background-image: url(/img/jabko.png);
   background-size: contain;
   background-repeat: no-repeat;
-  width: 276px;
+  width: 273px;
   height: 270px;
 }
 .sale {
@@ -834,20 +834,17 @@ margin: 0;
   padding-left: 8px;
   padding-right: 8px;
 }
-.offers::before {
-  content: url(/img/owoceve.png);
-  float: left;
-}
-.offers::after {
-  content: url(/img/owoce12.png);
-  float: right;
-}
 .containersa {
   width: 1800px;
   margin: auto;
   padding: 0 15px;
   box-sizing: border-box;
   margin: 0 auto;
+}
+.offers {
+  background-image:url(/img/owoceve.png) ,url(/img/owoce12.png);
+  background-repeat: no-repeat;
+  background-position: 5% 50%, 100% 100%;
 }
 /* end-section4 */
 /* end-main */  
