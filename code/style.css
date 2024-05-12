@@ -1,5 +1,5 @@
 .container {
-  width: 1200px;
+  width: 1320px;
   margin: auto;
   padding: 0 15px;
   box-sizing: border-box;
@@ -77,7 +77,9 @@ form.example button {
   cursor: pointer;
   border-radius: 0 5px 5px 0;
 }
-
+.phoners {
+  padding-left: 120px;
+}
 form.example button:hover {
   background: #00b207;
 }
@@ -241,13 +243,13 @@ form.example::after {
 /* end-section1 */
 /* section2 */
 .div-no-idia {
-    width: 300px;
-    height: 210px;
-    margin: 0;
-    padding: 0;
-    border: solid 1px rgb(223, 222, 222);
-    border-right: none;
-    background-color: #ffffff;
+  width: 320px;
+  height: 222px;
+  margin: 0;
+  padding: 0;
+  border: solid 1px rgb(223, 222, 222);
+  border-right: none;
+  background-color: #ffffff;
 }
 .logo-main {
   padding-bottom: 16px;
@@ -318,7 +320,7 @@ form.example::after {
   justify-content: center;
 }
 .container-1 {
-  width: 1450px;
+  width: 1600px;
   margin: auto;
   padding: 0 15px;
   box-sizing: border-box;
@@ -397,7 +399,7 @@ padding-left: 22px;
 }
 .cart {
   background-color: #ffffff;
-  width: 280px;
+  width: 320px;
 }
 .flex-box2222 {
   background-image: url(/img/jabko.png);
@@ -637,19 +639,19 @@ padding-left: 22px;
 /* section4 */
 .milk {
   background-image: url(/img/img12.png);
-  width: 380px;
+  width: 420px;
   height: 255px;
   border-radius: 7px;
 }
 .koka {
   background-image: url(/img/img123.png);
-  width: 380px;
+  width: 424px;
   height: 255px;
   border-radius: 7px;
 }
 .organic {
   background-image: url(/img/img124.png);
-  width: 375px;
+  width: 424px;
   height: 255px;
   border-radius: 7px;
 }
@@ -1369,10 +1371,10 @@ padding-bottom: 0;
   width: 110px;
 }
 .footer-s1-item3 {
-  padding-left: 75px;
+  padding-left: 78px;
 }
 .footer-s1-item4 {
-  padding-left: 75px;
+  padding-left: 78px;
 }
 .footer-prox {
   font-size: 20px;
@@ -1392,7 +1394,7 @@ padding-bottom: 0;
   width: 95px;
 }
 .footer-s1-item5 {
-  padding-left: 75px;
+  padding-left: 78px;
 }
 .footer-instagram {
   font-size: 20px;
@@ -1440,6 +1442,135 @@ color: #618062be;
 }
 .vidio-tl {
   background-size: 1400px;
+}
+h2.infow {
+  width: 160px;
+}
+.saldsdscokiiiio {
+  margin: 0;
+  color: white;
+}
+.flex-box2222 {
+  background-image: url(/img/jabko.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 270px;
+}
+.flex-box2222 {
+  width: 300px;
+  height: 270px;
+}
+#top-cart2 {
+  background-image: url(/img/persik.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 270px;
+}
+#top-cart23 {
+  background-image: url(/img/pomidor.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 270px;
+}
+#top-cart234 {
+  background-image: url(/img/kapusta.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 270px;
+}
+#top-cart2345 {
+  background-image: url(/img/lusta.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 270px;
+}
+#top-cart23456 {
+  background-image: url(/img/paper.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 270px;
+}
+#top-cart234567 {
+  background-image: url(/img/chilli.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 270px;
+}
+#top-cart2345678 {
+  background-image: url(/img/eggplant.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 270px;
+}
+.organic {
+  background-image: url(/img/img124.png);
+  width: 400px;
+  height: 255px;
+  border-radius: 7px;
+}
+.item-s5 {
+  width: 510px;
+}
+.triangle-down1 {
+  padding-left: 190px;
+  padding-bottom: 16px;
+}
+.vidio-tl {
+  background-image: url(/img/vidio.png);
+  width: 1300px;
+  height: 740px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+}
+.top-cart-s7 {
+  background-image: url(/img/foto1by1.png);
+  width: 370px;
+  height: 276px;
+  text-align: center;
+  margin-left: 24px;
+  padding-top: 24px;
+  margin-bottom: 24px;
+  background-position: 50% 50%;
+}
+.euismod {
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+  color: #617f62;
+  width: 300px;
+  padding-bottom: 20px;
+}
+.item-s7 {
+  height: 460px;
+}
+.last-sect-box {
+  display: flex;
+  margin: 0;
+}
+#ecobazar-bottom {
+  padding-right: 110px;
+}
+.subcribe-our-newsletter-box {
+  padding-right: 60px;
+}
+#icon34 {
+  width: 150px;
+}
+.flex-box-footer-s1-i5 {
+  width: 300px;
+}
+.footer-s1-flex-box {
+  display: flex;
+  justify-content: space-between;
 }
 /* end-main */  
 
