@@ -24,18 +24,18 @@
 }
 .language::after {
   margin-left: 5px;
-  content: url(/img/arrow.png);
+  content: url(img/arrow.png);
   margin-right: 10px;
 }
 .signs {
   margin-left: 10px;
 }
 .signs::before {
-  content: url(/img/line.png);
+  content: url(img/line.png);
   margin-right: 20px;
 }
 .sign::before {
-  content: url(/img/sign1.png);
+  content: url(img/sign1.png);
   margin-right: 5px;
 }
 /* end-section1 */
@@ -45,7 +45,7 @@
   align-items: center;
 }
 .Ecobazar-top::before {
-  content: url(/img/plant1.png);
+  content: url(img/plant1.png);
   margin-right: 10px;
 }
 .Ecobazar-top {
@@ -90,7 +90,7 @@ form.example::after {
   display: table;
 }
 .inputssss::before {
-  content: url(/img/s.png);
+  content: url(img/s.png);
 }
 .line {
   width: 3px;
@@ -161,7 +161,7 @@ form.example::after {
     padding-right: 10px;
 }
 #one::after,#one1::after,#one12::after,#one123::after{
-    content: url(/img/grup11.png);
+    content: url(img/grup11.png);
     padding-left: 4px;
 }
 #one,#one1,#one12,#one123,#one1234 {
@@ -238,7 +238,7 @@ form.example::after {
     padding-bottom: 82px;
 }
 .img-main1::after {
-  content: url(/img/conters.png);
+  content: url(img/conters.png);
 }
 /* end-section1 */
 /* section2 */
@@ -307,14 +307,14 @@ form.example::after {
   background: linear-gradient(180deg, rgba(255,255,255,1) 50%, rgba(237,242,238,1) 50%);
 }
 .section1-main::before {
-  content: url(/img/aoorw.png);
+  content: url(img/aoorw.png);
   align-items: center;
   display: flex;
   justify-content: center;
   padding-right: 50px;
 }
 .section1-main::after {
-  content: url(/img/aoorw1.png);
+  content: url(img/aoorw1.png);
   align-items: center;
   display: flex;
   justify-content: center;
@@ -368,7 +368,7 @@ ul { list-style: none; }
   align-items: center;
   padding-left: 10px;
   margin-top: 30px;
-  content: url(/img/group\ 4.png);
+  content: url(img/group\ 4.png);
 }
 .baton-main-s2or3 {
   align-items: center;
@@ -402,7 +402,7 @@ padding-left: 22px;
   width: 320px;
 }
 .flex-box2222 {
-  background-image: url(/img/jabko.png);
+  background-image: url(img/jabko.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 273px;
@@ -499,49 +499,49 @@ padding-left: 22px;
   padding-top: 40px;
 }
 #top-cart2 {
-  background-image: url(/img/persik.png);
+  background-image: url(img/persik.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 280px;
   height: 270px;
 }
 #top-cart23 {
-  background-image: url(/img/pomidor.png);
+  background-image: url(img/pomidor.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 280px;
   height: 270px;
 }
 #top-cart234 {
-  background-image: url(/img/kapusta.png);
+  background-image: url(img/kapusta.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 280px;
   height: 270px;
 }
 #top-cart2345 {
-  background-image: url(/img/lusta.png);
+  background-image: url(img/lusta.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 280px;
   height: 270px;
 }
 #top-cart23456 {
-  background-image: url(/img/paper.png);
+  background-image: url(img/paper.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 280px;
   height: 270px;
 }
 #top-cart234567 {
-  background-image: url(/img/chilli.png);
+  background-image: url(img/chilli.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 280px;
   height: 270px;
 }
 #top-cart2345678 {
-  background-image: url(/img/eggplant.png);
+  background-image: url(img/eggplant.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 280px;
@@ -560,15 +560,15 @@ padding-left: 22px;
   box-shadow: 0 0 10px #3f9e42;
 }
 .cart:hover .cart-img{
-  content: url(/img/card222.png);
+  content: url(img/card222.png);
 }
 .cart:hover .herts {
-  content: url(/img/herd.png);
+  content: url(img/herd.png);
   width: 48px;
   height: 48px;
 }
 .cart:hover .okis {
-  content: url(/img/oko.png);
+  content: url(img/oko.png);
   width: 48px;
   height: 48px;
 }
@@ -638,19 +638,19 @@ padding-left: 22px;
 /* end-section3 */
 /* section4 */
 .milk {
-  background-image: url(/img/img12.png);
+  background-image: url(img/img12.png);
   width: 420px;
   height: 255px;
   border-radius: 7px;
 }
 .koka {
-  background-image: url(/img/img123.png);
+  background-image: url(img/img123.png);
   width: 424px;
   height: 255px;
   border-radius: 7px;
 }
 .organic {
-  background-image: url(/img/img124.png);
+  background-image: url(img/img124.png);
   width: 424px;
   height: 255px;
   border-radius: 7px;
@@ -842,7 +842,7 @@ margin: 0;
   margin: 0 auto;
 }
 .offers {
-  background-image:url(/img/owoceve.png) ,url(/img/owoce12.png);
+  background-image:url(img/owoceve.png) ,url(img/owoce12.png);
   background-repeat: no-repeat;
   background-position: 5% 50%, 100% 100%;
 }
@@ -943,7 +943,7 @@ margin: 0;
   margin-left: 20px;
 }
 #top-botom-cart1 {
-  background-image: url(/img/orange.png);
+  background-image: url(img/orange.png);
   height: 220px;
   background-size: 100%;
   background-position: 60% 50%;
@@ -953,14 +953,14 @@ margin: 0;
   background-color: rgba(255, 255, 255, 0);
 }
 #top-botom-cart12 {
-  background-image: url(/img/kapuster.png);
+  background-image: url(img/kapuster.png);
   height: 220px;
   background-size: 100%;
   background-position: 60% 50%;
   width: 260px;
 }
 #top-botom-cart123 {
-  background-image: url(/img/listochku.png);
+  background-image: url(img/listochku.png);
   height: 220px;
   background-size: 100%;
   background-position: 60% 50%;
@@ -976,7 +976,7 @@ margin: 0;
   padding-bottom: 5px;
 }
 #top-botom-cart1234 {
-  background-image: url(/img/pirple.png);
+  background-image: url(img/pirple.png);
   height: 220px;
   background-size: 100%;
   background-position: 60% 50%;
@@ -1101,7 +1101,7 @@ color: #617f62;
   background: linear-gradient(180deg, rgba(237,242,238,1) 50%, rgba(255,255,255,1) 50%);
 }
 .vidio-tl {
-  background-image: url(/img/vidio.png);
+  background-image: url(img/vidio.png);
   width: 1400px;
   height: 740px;
   border-radius: 20px;
@@ -1149,7 +1149,7 @@ margin: 0;
   width: 420px;
 }
 .top-cart-s7 {
-  background-image: url(/img/foto1by1.png);
+  background-image: url(img/foto1by1.png);
   width: 330px;
   height: 276px;
   text-align: center;
@@ -1229,10 +1229,10 @@ text-align: center;
   padding-bottom: 10px;
 }
 #top-cart-s72 {
-  background-image: url(/img/img9.png);
+  background-image: url(img/img9.png);
 }
 #top-cart-s73 {
-  background-image: url(/img/imgs10.png);
+  background-image: url(img/imgs10.png);
 }
 .flex-s7-box {
   display: flex;
@@ -1432,7 +1432,7 @@ color: #618062be;
   padding-bottom: 24px;
 }
 .backraund0footer::before {
-  background-image: url(/img/Left.png);
+  background-image: url(img/Left.png);
   background-size: 300px 300px;
   background-position: left;
 }
@@ -1451,7 +1451,7 @@ h2.infow {
   color: white;
 }
 .flex-box2222 {
-  background-image: url(/img/jabko.png);
+  background-image: url(img/jabko.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 300px;
@@ -1462,56 +1462,56 @@ h2.infow {
   height: 270px;
 }
 #top-cart2 {
-  background-image: url(/img/persik.png);
+  background-image: url(img/persik.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 300px;
   height: 270px;
 }
 #top-cart23 {
-  background-image: url(/img/pomidor.png);
+  background-image: url(img/pomidor.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 300px;
   height: 270px;
 }
 #top-cart234 {
-  background-image: url(/img/kapusta.png);
+  background-image: url(img/kapusta.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 300px;
   height: 270px;
 }
 #top-cart2345 {
-  background-image: url(/img/lusta.png);
+  background-image: url(img/lusta.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 300px;
   height: 270px;
 }
 #top-cart23456 {
-  background-image: url(/img/paper.png);
+  background-image: url(img/paper.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 300px;
   height: 270px;
 }
 #top-cart234567 {
-  background-image: url(/img/chilli.png);
+  background-image: url(img/chilli.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 300px;
   height: 270px;
 }
 #top-cart2345678 {
-  background-image: url(/img/eggplant.png);
+  background-image: url(img/eggplant.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 300px;
   height: 270px;
 }
 .organic {
-  background-image: url(/img/img124.png);
+  background-image: url(img/img124.png);
   width: 400px;
   height: 255px;
   border-radius: 7px;
@@ -1524,7 +1524,7 @@ h2.infow {
   padding-bottom: 16px;
 }
 .vidio-tl {
-  background-image: url(/img/vidio.png);
+  background-image: url(img/vidio.png);
   width: 1300px;
   height: 740px;
   border-radius: 20px;
@@ -1532,7 +1532,7 @@ h2.infow {
   justify-content: center;
 }
 .top-cart-s7 {
-  background-image: url(/img/foto1by1.png);
+  background-image: url(img/foto1by1.png);
   width: 370px;
   height: 276px;
   text-align: center;
